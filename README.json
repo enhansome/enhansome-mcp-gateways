@@ -1,0 +1,326 @@
+{
+  "items": [
+    {
+      "description": "200 stars and 2 contributors or more.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Klavis",
+          "description": "MCP integration platforms that let AI agents use tools reliably at any scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T21:21:04Z",
+            "owner": "Klavis-AI",
+            "repo": "klavis",
+            "stars": 5791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pomerium",
+          "description": "Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:34:45Z",
+            "owner": "pomerium",
+            "repo": "pomerium",
+            "stars": 4950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agentgateway",
+          "description": "Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:07:10Z",
+            "owner": "agentgateway",
+            "repo": "agentgateway",
+            "stars": 4333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Context Forge",
+          "description": "Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:20:43Z",
+            "owner": "IBM",
+            "repo": "mcp-context-forge",
+            "stars": 4307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaMCP",
+          "description": "MCP Aggregator, Orchestrator, Middleware, Gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T16:50:50Z",
+            "owner": "metatool-ai",
+            "repo": "metamcp",
+            "stars": 2598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unla",
+          "description": "MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:48:03Z",
+            "owner": "AmoyLab",
+            "repo": "Unla",
+            "stars": 2200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker MCP Gateway",
+          "description": "Docker MCP CLI plugin / MCP Gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T20:21:12Z",
+            "owner": "docker",
+            "repo": "mcp-gateway",
+            "stars": 1525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obot",
+          "description": "Open-source MCP Gateway and AI Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:48:35Z",
+            "owner": "obot-platform",
+            "repo": "obot",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Gateway & Registry",
+          "description": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:27:04Z",
+            "owner": "agentic-community",
+            "repo": "mcp-gateway-registry",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft MCP Gateway",
+          "description": "MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:21:29Z",
+            "owner": "microsoft",
+            "repo": "mcp-gateway",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nexus",
+          "description": "Plug in all your MCP servers and LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-16T20:50:37Z",
+            "owner": "Nexus-Router",
+            "repo": "nexus",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Mesh",
+          "description": "Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:16:17Z",
+            "owner": "decocms",
+            "repo": "studio",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lasso MCP Gateway",
+          "description": "A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T13:07:00Z",
+            "owner": "lasso-security",
+            "repo": "mcp-gateway",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcpproxy-go",
+          "description": "Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T17:23:34Z",
+            "owner": "smart-mcp-proxy",
+            "repo": "mcpproxy-go",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Edison",
+          "description": "Open-source secure MCP Gateway and control panel with data exfiltration prevention, execution controls, fine-grained online configuration and visibility into agent interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-22T14:50:10Z",
+            "owner": "Edison-Watch",
+            "repo": "open-edison",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jetski",
+          "description": "Authentication, analytics, and prompt visibility for MCP servers with zero code changes. Supports OAuth2.1, DCR, real-time logs, and client onboarding out of the box.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T05:01:19Z",
+            "owner": "hyprmcp",
+            "repo": "jetski",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolSDK MCP Registry",
+          "description": "Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T03:52:41Z",
+            "owner": "toolsdk-ai",
+            "repo": "toolsdk-mcp-registry",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gate22",
+          "description": "Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T02:27:52Z",
+            "owner": "aipotheosis-labs",
+            "repo": "gate22",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIRIS MCP Gateway",
+          "description": "Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools (find, exec, schema, suggest, route, confidence, repo-index). Reduces context tokens by 97% via progressive disclosure with auto-enable on demand, HOT/COLD server lifecycle, and circuit breaker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:35:42Z",
+            "owner": "agiletec-inc",
+            "repo": "airis-mcp-gateway",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wirken",
+          "description": "The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T08:59:08Z",
+            "owner": "gebruder",
+            "repo": "wirken",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kuadrant MCP Gateway",
+          "description": "An envoy-based MCP Gateway that integrates with Istio and policy attachment mechanisms for authN, authZ, rate limiting and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:59:17Z",
+            "owner": "Kuadrant",
+            "repo": "mcp-gateway",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyper-mcp",
+          "description": "A fast, secure MCP server that extends its capabilities through WebAssembly plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-01-11T10:52:17Z",
+            "owner": "tuananh",
+            "repo": "hyper-mcp",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Open-source MCP Gateways"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:13.233Z",
+    "original_repository": "e2b-dev/awesome-mcp-gateways",
+    "original_repository_sha": "7c486c1d2c9b63b9fd634862c2465793a95aec8d",
+    "enhanced_repository": "enhansome/enhansome-mcp-gateways",
+    "enhanced_repository_description": null,
+    "title": "Awesome MCP Gateways with stars"
+  }
+}
