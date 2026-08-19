@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965974441,
             "language": "Python",
             "last_commit": "2026-06-01T21:21:04Z",
             "owner": "Klavis-AI",
             "repo": "klavis",
-            "stars": 5790
+            "stars": 5791
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163722349,
             "language": "Go",
-            "last_commit": "2026-08-18T14:36:07Z",
+            "last_commit": "2026-08-19T06:01:47Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4962
+            "stars": 4963
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950891299,
             "language": "Rust",
-            "last_commit": "2026-08-17T23:14:06Z",
+            "last_commit": "2026-08-18T22:31:22Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4407
+            "stars": 4428
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 979886407,
             "language": "Python",
-            "last_commit": "2026-08-18T13:29:15Z",
+            "last_commit": "2026-08-19T12:40:25Z",
             "owner": "IBM",
             "repo": "mcp-context-forge",
-            "stars": 4335
+            "stars": 4340
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 920576726,
             "language": "TypeScript",
             "last_commit": "2026-06-22T16:50:50Z",
             "owner": "metatool-ai",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966653795,
             "language": "TypeScript",
             "last_commit": "2026-08-04T14:48:03Z",
             "owner": "AmoyLab",
@@ -94,8 +100,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970603579,
             "language": "Go",
-            "last_commit": "2026-08-13T18:48:45Z",
+            "last_commit": "2026-08-18T17:27:44Z",
             "owner": "docker",
             "repo": "mcp-gateway",
             "stars": 1535
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852998534,
             "language": "Go",
-            "last_commit": "2026-08-18T04:34:38Z",
+            "last_commit": "2026-08-18T19:18:17Z",
             "owner": "obot-platform",
             "repo": "obot",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 992799823,
             "language": "Python",
-            "last_commit": "2026-08-18T03:13:04Z",
+            "last_commit": "2026-08-19T01:49:41Z",
             "owner": "agentic-community",
             "repo": "mcp-gateway-registry",
-            "stars": 865
+            "stars": 867
           }
         },
         {
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 983666406,
             "language": "C#",
             "last_commit": "2026-08-12T22:21:29Z",
             "owner": "microsoft",
             "repo": "mcp-gateway",
-            "stars": 788
+            "stars": 789
           }
         },
         {
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017966556,
             "language": "Rust",
             "last_commit": "2026-03-16T20:50:37Z",
             "owner": "Nexus-Router",
@@ -164,8 +175,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 948491206,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:12:04Z",
+            "last_commit": "2026-08-19T12:39:20Z",
             "owner": "decocms",
             "repo": "studio",
             "stars": 399
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965970978,
             "language": "Python",
             "last_commit": "2026-01-22T13:07:00Z",
             "owner": "lasso-security",
@@ -192,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1004056914,
             "language": "Go",
-            "last_commit": "2026-08-17T11:22:26Z",
+            "last_commit": "2026-08-19T12:40:26Z",
             "owner": "smart-mcp-proxy",
             "repo": "mcpproxy-go",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032492615,
             "language": "TypeScript",
             "last_commit": "2026-01-22T14:50:10Z",
             "owner": "Edison-Watch",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1013141089,
             "language": "TypeScript",
             "last_commit": "2026-04-29T05:01:19Z",
             "owner": "hyprmcp",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965987181,
             "language": "TypeScript",
             "last_commit": "2026-08-10T03:52:41Z",
             "owner": "toolsdk-ai",
@@ -248,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1040591578,
             "language": "TypeScript",
             "last_commit": "2025-12-12T02:27:52Z",
             "owner": "aipotheosis-labs",
             "repo": "gate22",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1068944624,
             "language": "Python",
             "last_commit": "2026-08-12T00:35:42Z",
             "owner": "agiletec-inc",
@@ -276,8 +295,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191392222,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:38:13Z",
+            "last_commit": "2026-08-19T08:37:59Z",
             "owner": "gebruder",
             "repo": "wirken",
             "stars": 168
@@ -290,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013223853,
             "language": "Go",
-            "last_commit": "2026-08-18T11:59:44Z",
+            "last_commit": "2026-08-19T11:21:43Z",
             "owner": "Kuadrant",
             "repo": "mcp-gateway",
-            "stars": 97
+            "stars": 96
           }
         },
         {
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1132109482,
             "language": "Rust",
             "last_commit": "2026-01-11T10:52:17Z",
             "owner": "tuananh",
@@ -316,8 +338,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:15:53.764Z",
+    "last_updated": "2026-08-19T12:40:34.896Z",
     "original_repository": "e2b-dev/awesome-mcp-gateways",
+    "original_repository_id": 1047864612,
     "original_repository_sha": "7c486c1d2c9b63b9fd634862c2465793a95aec8d",
     "enhanced_repository": "enhansome/enhansome-mcp-gateways",
     "enhanced_repository_description": null,
