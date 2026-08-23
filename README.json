@@ -15,7 +15,7 @@
             "last_commit": "2026-06-01T21:21:04Z",
             "owner": "Klavis-AI",
             "repo": "klavis",
-            "stars": 5792
+            "stars": 5794
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T20:02:03Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4969
+            "stars": 4970
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-22T12:51:29Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4477
+            "stars": 4490
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T21:42:45Z",
             "owner": "IBM",
             "repo": "mcp-context-forge",
-            "stars": 4352
+            "stars": 4351
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-22T16:50:50Z",
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2616
+            "stars": 2619
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-04T14:48:03Z",
             "owner": "AmoyLab",
             "repo": "Unla",
-            "stars": 2212
+            "stars": 2210
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-21T23:27:04Z",
             "owner": "docker",
             "repo": "mcp-gateway",
-            "stars": 1538
+            "stars": 1537
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-21T21:56:10Z",
             "owner": "obot-platform",
             "repo": "obot",
-            "stars": 955
+            "stars": 954
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-21T22:23:35Z",
             "owner": "microsoft",
             "repo": "mcp-gateway",
-            "stars": 794
+            "stars": 795
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 948491206,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:41:07Z",
+            "last_commit": "2026-08-23T00:01:58Z",
             "owner": "decocms",
             "repo": "studio",
             "stars": 400
@@ -195,7 +195,7 @@
             "last_commit": "2026-01-22T13:07:00Z",
             "owner": "lasso-security",
             "repo": "mcp-gateway",
-            "stars": 385
+            "stars": 386
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:01:35.275Z",
+    "last_updated": "2026-08-23T15:03:00.881Z",
     "original_repository": "e2b-dev/awesome-mcp-gateways",
     "original_repository_id": 1047864612,
     "original_repository_sha": "7c486c1d2c9b63b9fd634862c2465793a95aec8d",
