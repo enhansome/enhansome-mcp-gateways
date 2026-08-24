@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T20:02:03Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4972
+            "stars": 4971
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 950891299,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:19:15Z",
+            "last_commit": "2026-08-24T15:12:09Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
             "stars": 4505
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 979886407,
             "language": "Python",
-            "last_commit": "2026-08-24T14:29:57Z",
+            "last_commit": "2026-08-24T15:09:46Z",
             "owner": "IBM",
             "repo": "mcp-context-forge",
             "stars": 4360
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 992799823,
             "language": "Python",
-            "last_commit": "2026-08-24T12:03:35Z",
+            "last_commit": "2026-08-24T15:10:15Z",
             "owner": "agentic-community",
             "repo": "mcp-gateway-registry",
             "stars": 871
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 948491206,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:14:58Z",
+            "last_commit": "2026-08-24T15:02:56Z",
             "owner": "decocms",
             "repo": "studio",
             "stars": 400
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:32.318Z",
+    "last_updated": "2026-08-24T15:24:32.048Z",
     "original_repository": "e2b-dev/awesome-mcp-gateways",
     "original_repository_id": 1047864612,
     "original_repository_sha": "7c486c1d2c9b63b9fd634862c2465793a95aec8d",
