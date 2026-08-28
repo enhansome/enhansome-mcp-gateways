@@ -16,7 +16,8 @@
             "owner": "Klavis-AI",
             "repo": "klavis",
             "stars": 5795
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 163722349,
             "language": "Go",
-            "last_commit": "2026-08-27T23:09:40Z",
+            "last_commit": "2026-08-28T19:24:17Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4979
-          }
+            "stars": 4980
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-27T22:43:49Z",
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4603
-          }
+            "stars": 4629
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 979886407,
             "language": "Python",
-            "last_commit": "2026-08-27T21:40:25Z",
+            "last_commit": "2026-08-28T18:32:03Z",
             "owner": "IBM",
             "repo": "mcp-context-forge",
-            "stars": 4377
-          }
+            "stars": 4384
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-06-22T16:50:50Z",
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2630
-          }
+            "stars": 2632
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-27T07:52:00Z",
             "owner": "AmoyLab",
             "repo": "Unla",
-            "stars": 2214
-          }
+            "stars": 2216
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "docker",
             "repo": "mcp-gateway",
             "stars": 1545
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 852998534,
             "language": "Go",
-            "last_commit": "2026-08-27T22:17:47Z",
+            "last_commit": "2026-08-28T23:04:52Z",
             "owner": "obot-platform",
             "repo": "obot",
-            "stars": 964
-          }
+            "stars": 966
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 992799823,
             "language": "Python",
-            "last_commit": "2026-08-27T05:46:26Z",
+            "last_commit": "2026-08-28T01:43:20Z",
             "owner": "agentic-community",
             "repo": "mcp-gateway-registry",
-            "stars": 881
-          }
+            "stars": 884
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "microsoft",
             "repo": "mcp-gateway",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Nexus-Router",
             "repo": "nexus",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 948491206,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:20:33Z",
+            "last_commit": "2026-08-28T23:22:02Z",
             "owner": "decocms",
             "repo": "studio",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "lasso-security",
             "repo": "mcp-gateway",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -207,11 +220,12 @@
             "archived": false,
             "id": 1004056914,
             "language": "Go",
-            "last_commit": "2026-08-27T17:26:18Z",
+            "last_commit": "2026-08-28T19:35:11Z",
             "owner": "smart-mcp-proxy",
             "repo": "mcpproxy-go",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "Edison-Watch",
             "repo": "open-edison",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "hyprmcp",
             "repo": "jetski",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "toolsdk-ai",
             "repo": "toolsdk-mcp-registry",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "aipotheosis-labs",
             "repo": "gate22",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "agiletec-inc",
             "repo": "airis-mcp-gateway",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "gebruder",
             "repo": "wirken",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "Kuadrant",
             "repo": "mcp-gateway",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         },
         {
           "node_type": "item",
@@ -331,14 +352,15 @@
             "owner": "tuananh",
             "repo": "hyper-mcp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.309Z"
         }
       ],
       "title": "Open-source MCP Gateways"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:04:29.693Z",
+    "last_updated": "2026-08-28T23:43:07.309Z",
     "original_repository_info": {
       "archived": false,
       "id": 1047864612,
