@@ -85,10 +85,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:43:49Z",
-            "open_issues": 257,
+            "open_issues": 260,
             "owner": "agentgateway",
             "repo": "agentgateway",
-            "stars": 4630,
+            "stars": 4634,
             "topics": [
               "agents",
               "ai",
@@ -118,10 +118,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:32:03Z",
-            "open_issues": 1164,
+            "open_issues": 1165,
             "owner": "IBM",
             "repo": "mcp-context-forge",
-            "stars": 4385,
+            "stars": 4386,
             "topics": [
               "agents",
               "ai",
@@ -163,7 +163,7 @@
             "open_issues": 105,
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2632,
+            "stars": 2634,
             "topics": [
               "mcp",
               "mcp-gateway",
@@ -229,7 +229,7 @@
             "open_issues": 130,
             "owner": "docker",
             "repo": "mcp-gateway",
-            "stars": 1545,
+            "stars": 1544,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:07.309Z"
@@ -250,7 +250,7 @@
             "open_issues": 374,
             "owner": "obot-platform",
             "repo": "obot",
-            "stars": 966,
+            "stars": 965,
             "topics": [
               "ai",
               "chat",
@@ -317,7 +317,7 @@
             "open_issues": 10,
             "owner": "microsoft",
             "repo": "mcp-gateway",
-            "stars": 802,
+            "stars": 804,
             "topics": [
               "ai",
               "api-gateway",
@@ -381,8 +381,8 @@
             "id": 948491206,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:20:30Z",
-            "open_issues": 237,
+            "last_commit": "2026-08-29T17:26:21Z",
+            "open_issues": 231,
             "owner": "decocms",
             "repo": "studio",
             "stars": 402,
@@ -451,8 +451,8 @@
             "id": 1004056914,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:35:11Z",
-            "open_issues": 14,
+            "last_commit": "2026-08-29T17:53:33Z",
+            "open_issues": 15,
             "owner": "smart-mcp-proxy",
             "repo": "mcpproxy-go",
             "stars": 326,
@@ -554,7 +554,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T02:48:20Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "toolsdk-ai",
             "repo": "toolsdk-mcp-registry",
             "stars": 186,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:12.575Z",
+    "last_updated": "2026-08-29T17:55:36.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of MCP gateways",
