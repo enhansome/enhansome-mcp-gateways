@@ -9,27 +9,27 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 200 stars and 2 contributors or more.
 
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 7,804 | 🐛 972 | 🌐 Go | 📅 2026-09-04 - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 7,814 | 🐛 971 | 🌐 Go | 📅 2026-09-05 - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
 * [Klavis](https://github.com/Klavis-AI/klavis) ⭐ 5,799 | 🐛 295 | 🌐 Python | 📅 2026-06-01 - MCP integration platforms that let AI agents use tools reliably at any scale.
-* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 4,990 | 🐛 149 | 🌐 Go | 📅 2026-09-04 - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
-* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 4,720 | 🐛 267 | 🌐 Rust | 📅 2026-09-04 - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
-* [MCP Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,423 | 🐛 886 | 🌐 Python | 📅 2026-09-04 - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
-* [MetaMCP](https://github.com/metatool-ai/metamcp) ⭐ 2,647 | 🐛 107 | 🌐 TypeScript | 📅 2026-06-22 - MCP Aggregator, Orchestrator, Middleware, Gateway.
+* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 4,994 | 🐛 151 | 🌐 Go | 📅 2026-09-05 - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
+* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 4,729 | 🐛 274 | 🌐 Rust | 📅 2026-09-05 - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
+* [MCP Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,423 | 🐛 886 | 🌐 Python | 📅 2026-09-05 - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
+* [MetaMCP](https://github.com/metatool-ai/metamcp) ⭐ 2,648 | 🐛 107 | 🌐 TypeScript | 📅 2026-06-22 - MCP Aggregator, Orchestrator, Middleware, Gateway.
 * [Unla](https://github.com/AmoyLab/Unla) ⭐ 2,222 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-27 - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
-* [Docker MCP Gateway](https://github.com/docker/mcp-gateway) ⭐ 1,552 | 🐛 135 | 🌐 Go | 📅 2026-08-26 - Docker MCP CLI plugin / MCP Gateway.
-* [Obot](https://github.com/obot-platform/obot) ⭐ 976 | 🐛 400 | 🌐 Go | 📅 2026-09-04 - Open-source MCP Gateway and AI Platform.
-* [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) ⭐ 895 | 🐛 112 | 🌐 Python | 📅 2026-09-01 - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
+* [Docker MCP Gateway](https://github.com/docker/mcp-gateway) ⭐ 1,554 | 🐛 135 | 🌐 Go | 📅 2026-08-26 - Docker MCP CLI plugin / MCP Gateway.
+* [Obot](https://github.com/obot-platform/obot) ⭐ 976 | 🐛 403 | 🌐 Go | 📅 2026-09-04 - Open-source MCP Gateway and AI Platform.
+* [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) ⭐ 895 | 🐛 113 | 🌐 Python | 📅 2026-09-01 - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
 * [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) ⭐ 813 | 🐛 11 | 🌐 C# | 📅 2026-08-25 - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
 * [Nexus](https://github.com/grafbase/nexus) ⭐ 435 | 🐛 28 | 🌐 Rust | 📅 2026-03-16 - Plug in all your MCP servers and LLMs.
-* [MCP Mesh](https://github.com/decocms/mesh) ⭐ 403 | 🐛 185 | 🌐 TypeScript | 📅 2026-09-04 - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
+* [MCP Mesh](https://github.com/decocms/mesh) ⭐ 404 | 🐛 184 | 🌐 TypeScript | 📅 2026-09-04 - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
 * [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) ⭐ 385 | 🐛 13 | 🌐 Python | 📅 2026-01-22 - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
-* [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) ⭐ 335 | 🐛 25 | 🌐 Go | 📅 2026-09-04 - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
+* [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) ⭐ 335 | 🐛 21 | 🌐 Go | 📅 2026-09-05 - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
 * [Open Edison](https://github.com/Edison-Watch/open-edison) ⭐ 288 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-22 - Open-source secure MCP Gateway and control panel with data exfiltration prevention, execution controls, fine-grained online configuration and visibility into agent interactions.
 * [Jetski](https://github.com/hyprmcp/jetski) ⚠️ Archived - Authentication, analytics, and prompt visibility for MCP servers with zero code changes. Supports OAuth2.1, DCR, real-time logs, and client onboarding out of the box.
-* [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) ⭐ 186 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-27 - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
+* [ToolSDK MCP Registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) ⭐ 186 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-27 - Enterprise MCP Gateway with federated search, secure sandbox execution, OAuth 2.1 proxy, and unified HTTP API. Self-hosted via Docker.
 * [Gate22](https://github.com/aipotheosis-labs/gate22) ⭐ 178 | 🐛 23 | 🌐 TypeScript | 📅 2025-12-12 - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited.
-* [AIRIS MCP Gateway](https://github.com/agiletec-inc/airis-mcp-gateway) ⭐ 171 | 🐛 11 | 🌐 Python | 📅 2026-08-30 - Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools (find, exec, schema, suggest, route, confidence, repo-index). Reduces context tokens by 97% via progressive disclosure with auto-enable on demand, HOT/COLD server lifecycle, and circuit breaker.
-* [Wirken](https://github.com/gebruder/wirken) ⭐ 170 | 🐛 16 | 🌐 Rust | 📅 2026-09-03 - The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.
+* [AIRIS MCP Gateway](https://github.com/agiletec-inc/airis-mcp-gateway) ⭐ 172 | 🐛 11 | 🌐 Python | 📅 2026-08-30 - Docker-based MCP multiplexer that aggregates 60+ tools behind 7 meta-tools (find, exec, schema, suggest, route, confidence, repo-index). Reduces context tokens by 97% via progressive disclosure with auto-enable on demand, HOT/COLD server lifecycle, and circuit breaker.
+* [Wirken](https://github.com/gebruder/wirken) ⭐ 171 | 🐛 16 | 🌐 Rust | 📅 2026-09-03 - The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.
 * [Kuadrant MCP Gateway](https://github.com/Kuadrant/mcp-gateway) ⭐ 98 | 🐛 99 | 🌐 Go | 📅 2026-09-04 - An envoy-based MCP Gateway that integrates with Istio and policy attachment mechanisms for authN, authZ, rate limiting and more.
 * [hyper-mcp](https://github.com/tuananh/hyper-mcp) ⚠️ Archived - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 
@@ -65,4 +65,4 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
