@@ -9,22 +9,22 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 200 stars and 2 contributors or more.
 
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,833 | 🐛 1,215 | 🌐 Go | 📅 2026-10-15 - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
-* [Klavis](https://github.com/Klavis-AI/klavis) ⭐ 5,810 | 🐛 307 | 🌐 Python | 📅 2026-06-01 - MCP integration platforms that let AI agents use tools reliably at any scale.
-* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 5,361 | 🐛 305 | 🌐 Rust | 📅 2026-10-15 - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
-* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 5,045 | 🐛 173 | 🌐 Go | 📅 2026-10-15 - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
-* [MCP Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,640 | 🐛 942 | 🌐 Python | 📅 2026-10-15 - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
-* [MetaMCP](https://github.com/metatool-ai/metamcp) ⭐ 2,707 | 🐛 117 | 🌐 TypeScript | 📅 2026-06-22 - MCP Aggregator, Orchestrator, Middleware, Gateway.
-* [Unla](https://github.com/AmoyLab/Unla) ⭐ 2,240 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-13 - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
-* [Docker MCP Gateway](https://github.com/docker/mcp-gateway) ⭐ 1,601 | 🐛 157 | 🌐 Go | 📅 2026-09-23 - Docker MCP CLI plugin / MCP Gateway.
-* [Obot](https://github.com/obot-platform/obot) ⭐ 1,107 | 🐛 345 | 🌐 Go | 📅 2026-10-15 - Open-source MCP Gateway and AI Platform.
-* [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) ⭐ 984 | 🐛 134 | 🌐 Python | 📅 2026-10-14 - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
-* [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) ⭐ 883 | 🐛 14 | 🌐 C# | 📅 2026-10-14 - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
-* [FLUJO](https://github.com/mario-andreschak/FLUJO) ⭐ 661 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-15 - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,855 | 🐛 1,222 | 🌐 Go | 📅 2026-10-16 - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
+* [Klavis](https://github.com/Klavis-AI/klavis) ⭐ 5,811 | 🐛 307 | 🌐 Python | 📅 2026-06-01 - MCP integration platforms that let AI agents use tools reliably at any scale.
+* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 5,373 | 🐛 316 | 🌐 Rust | 📅 2026-10-16 - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
+* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 5,046 | 🐛 171 | 🌐 Go | 📅 2026-10-16 - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
+* [MCP Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,646 | 🐛 944 | 🌐 Python | 📅 2026-10-16 - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
+* [MetaMCP](https://github.com/metatool-ai/metamcp) ⭐ 2,709 | 🐛 117 | 🌐 TypeScript | 📅 2026-06-22 - MCP Aggregator, Orchestrator, Middleware, Gateway.
+* [Unla](https://github.com/AmoyLab/Unla) ⭐ 2,241 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-13 - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
+* [Docker MCP Gateway](https://github.com/docker/mcp-gateway) ⭐ 1,601 | 🐛 158 | 🌐 Go | 📅 2026-09-23 - Docker MCP CLI plugin / MCP Gateway.
+* [Obot](https://github.com/obot-platform/obot) ⭐ 1,107 | 🐛 338 | 🌐 Go | 📅 2026-10-16 - Open-source MCP Gateway and AI Platform.
+* [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) ⭐ 985 | 🐛 132 | 🌐 Python | 📅 2026-10-16 - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
+* [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) ⭐ 884 | 🐛 15 | 🌐 C# | 📅 2026-10-16 - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
+* [FLUJO](https://github.com/mario-andreschak/FLUJO) ⭐ 662 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-16 - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
 * [Nexus](https://github.com/Nexus-Router/nexus) ⭐ 436 | 🐛 28 | 🌐 Rust | 📅 2026-03-16 - Plug in all your MCP servers and LLMs.
-* [MCP Mesh](https://github.com/decocms/studio) ⭐ 409 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-15 - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
+* [MCP Mesh](https://github.com/decocms/studio) ⭐ 409 | 🐛 208 | 🌐 TypeScript | 📅 2026-10-16 - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
 * [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) ⭐ 396 | 🐛 18 | 🌐 Python | 📅 2026-01-22 - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
-* [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) ⭐ 393 | 🐛 30 | 🌐 Go | 📅 2026-10-15 - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
+* [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) ⭐ 395 | 🐛 22 | 🌐 Go | 📅 2026-10-16 - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
 
 ## Commercial MCP Gateways
 
@@ -43,7 +43,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 * [OpenWork](https://openworklabs.com/connect) - Manage your team's MCPs, skills, and AI models all in one place. One OAuth URL brings them into Claude Code, Codex, Cursor, OpenCode, and any MCP client, with per-team access and tool controls.
 * [Peta](https://peta.io) - 1Password for AI Agents : a self-hosted MCP vault + gateway (with HITL approvals)
 * [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
-* [Scalekit](https://www.scalekit.com/agentkit) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
+* [Scalekit](https://www.scalekit.com/agentkit) - Scalekit AgentKit gives each user a per-user OAuth login and stores the tokens in a token vault, so agents call tools as that user.
 * [Smithery](https://smithery.ai) - Your Agent's Gateway to the World.
 * [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane governing access, policy, and auditability across agents, MCP servers, and Skills.
 * [Toolport](https://toolport.app) - Local-first MCP gateway that gives every AI client one shared, governed set of servers: lazy discovery for \~90% fewer tool tokens, tool-integrity checks against rug pulls and prompt-injection, and secrets kept in your OS keychain. Team plan adds shared config and org controls.
@@ -57,4 +57,4 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
