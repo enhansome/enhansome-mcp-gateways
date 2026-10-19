@@ -9,22 +9,22 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 
 200 stars and 2 contributors or more.
 
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,912 | 🐛 1,249 | 🌐 Go | 📅 2026-10-18 - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
-* [Klavis](https://github.com/Klavis-AI/klavis) ⭐ 5,814 | 🐛 307 | 🌐 Python | 📅 2026-06-01 - MCP integration platforms that let AI agents use tools reliably at any scale.
-* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 5,391 | 🐛 321 | 🌐 Rust | 📅 2026-10-18 - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
-* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 5,050 | 🐛 171 | 🌐 Go | 📅 2026-10-17 - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
-* [MCP Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,648 | 🐛 943 | 🌐 Python | 📅 2026-10-17 - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,944 | 🐛 1,255 | 🌐 Go | 📅 2026-10-19 - Open-source AI gateway with MCP support, provider routing, automatic failover, load balancing, and observability.
+* [Klavis](https://github.com/Klavis-AI/klavis) ⭐ 5,817 | 🐛 307 | 🌐 Python | 📅 2026-06-01 - MCP integration platforms that let AI agents use tools reliably at any scale.
+* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 5,416 | 🐛 316 | 🌐 Rust | 📅 2026-10-19 - Next Generation Agentic Proxy for AI Agents and MCP servers that provides drop-in security, observability, and governance for agent-to-agent and agent-to-tool communication.
+* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 5,055 | 🐛 173 | 🌐 Go | 📅 2026-10-19 - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
+* [MCP Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,655 | 🐛 948 | 🌐 Python | 📅 2026-10-19 - Model Context Protocol gateway & proxy - unify REST, MCP, and A2A with federation, virtual servers, retries, security, and an optional admin UI.
 * [MetaMCP](https://github.com/metatool-ai/metamcp) ⭐ 2,713 | 🐛 119 | 🌐 TypeScript | 📅 2026-06-22 - MCP Aggregator, Orchestrator, Middleware, Gateway.
-* [Unla](https://github.com/AmoyLab/Unla) ⭐ 2,242 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-13 - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
-* [Docker MCP Gateway](https://github.com/docker/mcp-gateway) ⭐ 1,603 | 🐛 160 | 🌐 Go | 📅 2026-09-23 - Docker MCP CLI plugin / MCP Gateway.
-* [Obot](https://github.com/obot-platform/obot) ⭐ 1,109 | 🐛 336 | 🌐 Go | 📅 2026-10-16 - Open-source MCP Gateway and AI Platform.
-* [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) ⭐ 988 | 🐛 133 | 🌐 Python | 📅 2026-10-16 - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
-* [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) ⭐ 885 | 🐛 15 | 🌐 C# | 📅 2026-10-16 - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
-* [FLUJO](https://github.com/mario-andreschak/FLUJO) ⭐ 662 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-17 - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
-* [Nexus](https://github.com/Nexus-Router/nexus) ⭐ 436 | 🐛 28 | 🌐 Rust | 📅 2026-03-16 - Plug in all your MCP servers and LLMs.
-* [MCP Mesh](https://github.com/decocms/studio) ⭐ 410 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-18 - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
+* [Unla](https://github.com/AmoyLab/Unla) ⭐ 2,243 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-13 - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
+* [Docker MCP Gateway](https://github.com/docker/mcp-gateway) ⭐ 1,607 | 🐛 164 | 🌐 Go | 📅 2026-09-23 - Docker MCP CLI plugin / MCP Gateway.
+* [Obot](https://github.com/obot-platform/obot) ⭐ 1,110 | 🐛 339 | 🌐 Go | 📅 2026-10-19 - Open-source MCP Gateway and AI Platform.
+* [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) ⭐ 991 | 🐛 128 | 🌐 Python | 📅 2026-10-19 - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
+* [Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway) ⭐ 888 | 🐛 15 | 🌐 C# | 📅 2026-10-16 - MCP Gateway is a reverse proxy and management layer for Model Context Protocol (MCP) servers, enabling scalable, session-aware routing and lifecycle management of MCP servers in Kubernetes environments.
+* [FLUJO](https://github.com/mario-andreschak/FLUJO) ⭐ 663 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-19 - Local-first MCP client and visual agent builder that re-exposes configured MCP servers to other clients over Streamable HTTP, with centralized server configuration, encrypted credentials, and a web UI for inspecting tools, resources, and prompts.
+* [Nexus](https://github.com/Nexus-Router/nexus) ⭐ 436 | 🐛 29 | 🌐 Rust | 📅 2026-03-16 - Plug in all your MCP servers and LLMs.
+* [MCP Mesh](https://github.com/decocms/studio) ⭐ 410 | 🐛 181 | 🌐 TypeScript | 📅 2026-10-19 - Open-source MCP control plane that routes all MCP traffic through one governed endpoint. Features RBAC (OAuth 2.1 + API keys), encrypted token vault, runtime strategies as gateways for smart tool selection, Virtual MCPs for composing toolsets, and full OpenTelemetry observability. Multi-tenant with org scoping.
 * [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) ⭐ 396 | 🐛 18 | 🌐 Python | 📅 2026-01-22 - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
-* [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) ⭐ 395 | 🐛 17 | 🌐 Go | 📅 2026-10-18 - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
+* [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) ⭐ 396 | 🐛 19 | 🌐 Go | 📅 2026-10-19 - Open-source local MCP proxy server. Routes multiple MCP servers through a single endpoint with BM25 tool filtering, activity logging, quarantine security, and web UI.
 
 ## Commercial MCP Gateways
 
@@ -52,9 +52,9 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 * [TurboMCP](https://turbomcp.ai) - Connect your apps to AI on your terms.
 * [Tyk MCP Gateway](https://tyk.io/docs/ai-management/mcp-gateway/overview) - Enterprise API and MCP gateway that proxies remote MCP servers and turns existing REST APIs into MCP tools without building a new server. Enforces OAuth 2.1, per-tool access policies and rate limits, filters tool discovery so each agent sees only what it is allowed to call, and exports MCP analytics through the Tyk Dashboard and OpenTelemetry.
 * [Unified Context Layer](https://ucl.dev/) - Unified Context Layer (UCL) is a multi-tenant Model Context Protocol (MCP) server that enables AI agents, automation platforms, and applications to connect to over 1,000 SaaS tools—such as Slack, Jira, Gmail, Shopify, Notion, and more—via a single standardized /command endpoint with little to no glue code needed.
-* [Webrix](https://webrix.ai) - Enterprise AI adoption infrastructure with secure MCP Gateway for connecting AI agents (Claude, Cursor, ChatGPT, Antigravity) to internal tools. Features SSO, RBAC, audit trails, and governance controls.
+* [Willow](https://withwillow.ai) - The secure Basecamp for enterprise AI. One MCP gateway for every agent in the company (Claude, Claude Code, ChatGPT, Codex, Cursor, Copilot, Gemini). Turn any internal API into an MCP in minutes, give each agent the user's own identity and scoped access, govern skills and plugins, run background agents, catch shadow AI, and audit every tool call. Formerly Webrix.
 * [Zuplo](https://zuplo.com/features/ai-gateway) - Zuplo's AI gateway is designed with federated self-serve for engineers, with hierarchical cost controls, guard rails, semantic caching, and more.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
